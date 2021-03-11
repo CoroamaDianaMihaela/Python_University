@@ -1,4 +1,4 @@
-# Python_University
+# Python Project
 Project done for the Programming and Algorithm course
 
 Proiectul gestioneaza un Cinema si are urmatoarele functionalitati valabile:
