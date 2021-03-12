@@ -18,6 +18,8 @@ The total number of points on the card is printed. Reservations can only be made
 9. Increase by a given value the points on all cards whose birthday is in a given range.
 
 
+
+
 *Romanian*
 
 Proiectul gestioneaza un Cinema si are urmatoarele functionalitati valabile:
